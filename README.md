@@ -2,7 +2,7 @@
 A visually stunning, interactive 404 error page with a black hole/space theme featuring particle animations, mouse/touch interaction, and a "space warp" effect to return home.
 
 <div align="center">
-  <img src="[https://p5-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/1fe023269e3242c885612ff2148edc25.jpg](https://github.com/heretool/404-Error-Page/blob/main/img.jpg)" width="700">
+  <img src="https://github.com/heretool/404-Error-Page/blob/main/img.jpg" width="700">
 </div>
 
 ## Features
