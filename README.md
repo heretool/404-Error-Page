@@ -51,4 +51,4 @@ To see the page in action:
 - Touch interactions are passive to prevent scrolling issues on mobile
 
 ## License
-This project is open source and available under the [MIT License](LICENSE). Feel free to modify and use it for personal/commercial projects.
+This project is originally created and released by [heretool.com](https://heretool.com). It is open source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and use it for personal/commercial projects.
